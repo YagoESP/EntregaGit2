@@ -1,3 +1,4 @@
+feature/ShowProduct
 # GitLab: Plataforma Integral de DevOps
 
 ## ¿Qué es GitLab?
@@ -38,6 +39,22 @@ GitLab es una plataforma de DevOps basada en la web que proporciona un control d
 2. Puede ser auto-hospedado (on-premise)  
 3. Excelentes herramientas CI/CD integradas  
 4. Fuerte enfoque en seguridad  
-5. Buena para equipos que necesitan control total  
+5. Buena para equipos que necesitan cntrol total  
 
 GitLab es especialmente útil para empresas que necesitan una solución completa de DevOps con control total sobre su infraestructura.
+=======
+# GitLab: La Alternativa a GitHub
+
+GitLab es una plataforma moderna de DevOps que compite directamente con GitHub. Ofrece repositorios Git, gestión de proyectos y herramientas de CI/CD integradas.
+
+## Características Clave
+
+- Repositorios Git ilimitados
+- CI/CD integrado
+- Merge Requests para revisión de código
+- Issues y épicas para gestión ágil
+- Wikis integrados
+- Seguridad avanzada
+
+Es una excelente alternativa especialmente si necesitas auto-hospedaje o control total sobre tu infraestructura.
+ main
